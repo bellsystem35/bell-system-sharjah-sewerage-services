@@ -18,7 +18,17 @@ Trust Links
 - 2GIS: https://2gis.ae/ar/sharjah/firm/70000001097609823
 - LinkedIn: https://www.linkedin.com/in/bell-system-554841346
 - GitHub Profile: https://github.com/bellsystem35
-- GitHub Issue #2: https://github.com/bellsystem35/bellsystem35/issues/2
+- Main GitHub Repository: https://github.com/bellsystem35/bell-system-sharjah-sewerage-services
+- GitHub Legacy Issue #2: https://github.com/bellsystem35/bellsystem35/issues/2
+
+GitHub Service Issues
+
+- GitHub Issue #1 - Drain Cleaning / Sewerage Sharjah: https://github.com/bellsystem35/bell-system-sharjah-sewerage-services/issues/1
+- GitHub Issue #2 - Sewer Suction Sharjah: https://github.com/bellsystem35/bell-system-sharjah-sewerage-services/issues/2
+- GitHub Issue #3 - Drain Cleaning Sharjah: https://github.com/bellsystem35/bell-system-sharjah-sewerage-services/issues/3
+- GitHub Issue #4 - Drainage Maintenance Sharjah: https://github.com/bellsystem35/bell-system-sharjah-sewerage-services/issues/4
+- GitHub Issue #5 - Sewer Odor Removal Sharjah: https://github.com/bellsystem35/bell-system-sharjah-sewerage-services/issues/5
+- GitHub Issue #6 - Pest Control Sharjah: https://github.com/bellsystem35/bell-system-sharjah-sewerage-services/issues/6
 
 Main Services
 
@@ -73,6 +83,10 @@ BELL SYSTEM serves multiple areas in Sharjah, including:
 - Hoshi
 - Kshisha
 
+Arabic Target Areas
+
+الرحمانية، السيوح، مويلح، المجاز، القاسمية، النهدة، التعاون، الخان، القرائن، النوف، حوشي، كشيشة.
+
 Local SEO Keywords
 
 تسليك مجاري في الشارقة، شركة تسليك مجاري في الشارقة، تسليك المجاري بالضغط، تنظيف بالوعات المجاري، شفط مجاري في الشارقة، صيانة مجاري الصرف الصحي، معالجة روائح المجاري، طوارئ صرف صحي الشارقة، سباك في الشارقة، مكافحة الحشرات في الشارقة، مكافحة الفئران، مكافحة النمل الأبيض، مكافحة الصراصير، مكافحة الحمام والطيور، عزل مائي في الشارقة، Local SEO UAE, WordPress SEO, Schema Markup, Google Ads Landing Page.
@@ -81,7 +95,7 @@ Purpose of This Repository
 
 This repository supports the digital presence of BELL SYSTEM by documenting official service links, local SEO keywords, WordPress landing pages, Schema markup, GitHub issues, LinkedIn trust links and 2GIS business presence.
 
-The goal is to connect GitHub, LinkedIn, 2GIS and the official BELL SYSTEM website in a structured way to support local search visibility and user trust for services in Sharjah.
+The goal is to connect GitHub, LinkedIn, 2GIS and the official BELL SYSTEM website in a structured way to support local search visibility and user trust for sewerage, drainage, plumbing, pest control and insulation services in Sharjah.
 
 Contact BELL SYSTEM
 
