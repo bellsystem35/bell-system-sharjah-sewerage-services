@@ -20,12 +20,17 @@
 
 ## صفحات المناطق
 
-- [النوف](areas/al-nouf.md)
-- [القرائن](areas/al-qarayen.md)
+### فلل ومنازل وبيارات
+
 - [السيوح](areas/al-suyoh.md)
 - [الرحمانية](areas/al-rahmaniya.md)
+- [القرائن](areas/al-qarayen.md)
+- [النوف](areas/al-nouf.md)
 - [حوشي](areas/hoshi.md)
 - [كشيشة](areas/kshisha.md)
+
+### بنايات وأبراج ومجمعات
+
 - [المجاز](areas/al-majaz.md)
 - [الخان](areas/al-khan.md)
 - [النهدة](areas/al-nahda.md)
@@ -33,11 +38,23 @@
 - [القاسمية](areas/al-qasimia.md)
 - [مويلح](areas/muweilah.md)
 
-## أدلة مساندة
+## أدلة اختيار الخدمة
 
 - [الفرق بين شفط المجاري وتسليك المجاري](guides/suction-vs-unclogging.md)
-- [ماذا ترسل قبل وصول سيارة الشفط؟](guides/before-suction-truck-arrives.md)
+- [الفرق بين البيارة وخزان أو غرفة تجميع الصرف](guides/septic-tank-vs-collection-tank.md)
+- [شفط مجاري الفلل في الشارقة](guides/sewer-suction-for-villas.md)
+- [شفط مجاري البنايات والأبراج في الشارقة](guides/sewer-suction-for-buildings.md)
+- [شفط مجاري المطاعم والمطابخ التجارية](guides/restaurant-drainage-suction.md)
+
+## أدلة المشكلات المتكررة
+
 - [لماذا تمتلئ البيارة بسرعة بعد الشفط؟](guides/why-septic-fills-fast.md)
+- [أسباب تكرار طفح المجاري بعد الشفط](guides/repeated-sewage-overflow-causes.md)
+- [متى تحتاج إلى فحص كاميرا بعد الشفط؟](guides/when-to-request-camera-inspection.md)
+
+## قبل وأثناء الطوارئ
+
+- [ماذا ترسل قبل وصول سيارة الشفط؟](guides/before-suction-truck-arrives.md)
 - [التصرف الآمن عند طفح مياه الصرف](guides/sewage-overflow-safety.md)
 
 ## خريطة النية
@@ -46,5 +63,6 @@
 - **دليل المناطق:** اختيار المنطقة الصحيحة والوصول إلى الصفحة المحلية.
 - **صفحات المناطق:** ظروف الوصول ونوع العقارات ونقاط التجميع الشائعة في سياق المنطقة.
 - **الأدلة:** أسئلة معلوماتية تساعد المستخدم قبل اتخاذ القرار.
+- **خريطة SEO:** [SEO-INTENT-MAP.md](SEO-INTENT-MAP.md) توثق وظيفة كل صفحة وقواعد منع التعارض.
 
 لا تُنشأ صفحة جديدة لمجرد اختلاف صياغة الكلمة المفتاحية، ولا يُكرر نفس النص بين المناطق.
