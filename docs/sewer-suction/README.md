@@ -20,6 +20,9 @@
 
 ## صفحات المناطق
 
+- [فهرس المناطق الكامل](areas/README.md)
+
+
 ### فلل ومنازل وبيارات
 
 - [السيوح](areas/al-suyoh.md)
@@ -38,6 +41,10 @@
 - [القاسمية](areas/al-qasimia.md)
 - [مويلح](areas/muweilah.md)
 
+## الأدلة
+
+- [فهرس الأدلة الكامل](guides/README.md)
+
 ## أدلة اختيار الخدمة
 
 - [الفرق بين شفط المجاري وتسليك المجاري](guides/suction-vs-unclogging.md)
@@ -45,6 +52,7 @@
 - [شفط مجاري الفلل في الشارقة](guides/sewer-suction-for-villas.md)
 - [شفط مجاري البنايات والأبراج في الشارقة](guides/sewer-suction-for-buildings.md)
 - [شفط مجاري المطاعم والمطابخ التجارية](guides/restaurant-drainage-suction.md)
+- [علامات قد تشير إلى امتلاء البيارة أو خزان التجميع](guides/signs-full-septic-or-collection-tank.md)
 
 ## أدلة المشكلات المتكررة
 
@@ -53,6 +61,8 @@
 - [متى تحتاج إلى فحص كاميرا بعد الشفط؟](guides/when-to-request-camera-inspection.md)
 
 ## قبل وأثناء الطوارئ
+
+- [متى تصبح حالة شفط المجاري طارئة؟](guides/emergency-sewer-suction.md)
 
 - [ماذا ترسل قبل وصول سيارة الشفط؟](guides/before-suction-truck-arrives.md)
 - [التصرف الآمن عند طفح مياه الصرف](guides/sewage-overflow-safety.md)
