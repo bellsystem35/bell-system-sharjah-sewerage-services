@@ -129,6 +129,13 @@
 
 توجد [فهرسة مستقلة للمقالات](articles/README.md) و[فهرس صور WebP ومصادرها](media/README.md)، وتبقى مدونة WordPress الأصلية المرجع لأي مقال منشور هناك بالفعل.
 
+### مقالات إضافية عن التخطيط ونطاق العمل
+
+- [كل كم تحتاج البيارة إلى شفط في الشارقة؟](articles/how-often-septic-tank-needs-suction-sharjah.md)
+- [شفط المياه أم تنظيف الرواسب؟](articles/sewer-suction-vs-desludging-sharjah.md)
+- [هل المشكلة داخل الشقة أم في نظام المبنى؟](articles/sewage-problem-apartment-or-building-sharjah.md)
+- [شفط المجاري للمنشآت التجارية في الشارقة](articles/sewer-suction-commercial-properties-sharjah.md)
+
 ## الأسئلة الشائعة
 
 ### هل شفط المجاري يفتح انسداد المواسير؟
