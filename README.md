@@ -34,9 +34,16 @@ A structured documentation cluster is now available for **شفط مجاري ال
 Supporting guides:
 
 - [Sewer suction vs drain unclogging](docs/sewer-suction/guides/suction-vs-unclogging.md)
+- [Septic tank vs collection tank](docs/sewer-suction/guides/septic-tank-vs-collection-tank.md)
+- [Sewer suction for villas](docs/sewer-suction/guides/sewer-suction-for-villas.md)
+- [Sewer suction for buildings and towers](docs/sewer-suction/guides/sewer-suction-for-buildings.md)
+- [Restaurant drainage suction](docs/sewer-suction/guides/restaurant-drainage-suction.md)
+- [Repeated sewage overflow causes](docs/sewer-suction/guides/repeated-sewage-overflow-causes.md)
+- [When to request camera inspection](docs/sewer-suction/guides/when-to-request-camera-inspection.md)
 - [What to send before the suction truck arrives](docs/sewer-suction/guides/before-suction-truck-arrives.md)
 - [Why a septic tank may fill quickly after suction](docs/sewer-suction/guides/why-septic-fills-fast.md)
 - [Sewage overflow safety](docs/sewer-suction/guides/sewage-overflow-safety.md)
+- [SEO intent map](docs/sewer-suction/SEO-INTENT-MAP.md)
 
 The official website remains the primary source for current service details, booking and operational information. GitHub documentation is organized to clarify service intent and avoid duplicating the same content across area pages.
 
