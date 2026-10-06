@@ -25,6 +25,10 @@ ARTICLES = (
     "post-suction-checklist",
     "sewer-smell-after-tank-suction",
     "building-manager-sewer-suction-log",
+    "how-often-septic-tank-needs-suction-sharjah",
+    "sewer-suction-vs-desludging-sharjah",
+    "sewage-problem-apartment-or-building-sharjah",
+    "sewer-suction-commercial-properties-sharjah",
 )
 REQUIRED = (
     ROOT / "README.md",
