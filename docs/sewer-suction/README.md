@@ -158,4 +158,5 @@
 
 - [خريطة نية البحث ومنع التضارب](SEO-INTENT-MAP.md)
 - [مراجعة العلاقة مع صفحات WordPress](SEO-WORDPRESS-CROSSWALK.md)
+- [تدقيق جودة صفحات WordPress وأولويات المناطق](WORDPRESS-QUALITY-AUDIT-2026-10-06.md)
 - [2GIS — ملف BELL SYSTEM](https://2gis.ae/ar/sharjah/firm/70000001097609823)
