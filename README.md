@@ -50,6 +50,18 @@ Supporting guides:
 
 The official website remains the primary source for current service details, booking and operational information. GitHub documentation is organized to clarify service intent and avoid duplicating the same content across area pages.
 
+
+## SEO structure and WordPress canonical-intent review
+
+The official WordPress content is the primary reference for commercial service and local pages. GitHub files are supporting documentation, **not replacement landing pages**.
+
+- [WordPress–GitHub crosswalk: all 12 area pages and core service intents](docs/sewer-suction/SEO-WORDPRESS-CROSSWALK.md)
+- [Expanded sewer suction decision hub](docs/sewer-suction/README.md)
+- [WebP image catalog: all 12 areas + six articles](docs/sewer-suction/media/README.md)
+- [Intent separation and anti-duplication plan](docs/sewer-suction/SEO-INTENT-MAP.md)
+
+The repository documents verified links, practical site-access questions and safety-oriented guidance. Public visibility enables access; it does **not** guarantee indexing or rankings.
+
 ## GitHub service issues
 
 - Issue #1 — Drain cleaning / sewerage Sharjah: https://github.com/bellsystem35/bell-system-sharjah-sewerage-services/issues/1
