@@ -1,105 +1,68 @@
-BELL SYSTEM | Sharjah Sewerage Services
+# BELL SYSTEM | Sharjah Sewerage Services
 
-BELL SYSTEM is a Sharjah-based service company providing sewerage, drainage, plumbing, pest control and insulation services for villas, homes, restaurants, shops, warehouses, residential buildings and commercial properties across Sharjah, UAE.
+BELL SYSTEM provides sewerage, drainage, plumbing, pest-control and insulation services across Sharjah, UAE.
 
-Official Website
+## Official website
 
 - Website: https://bellsystem35.com/
-- Sewerage Services: https://bellsystem35.com/خدمة-صرف-صحي/
-- Drain Cleaning: https://bellsystem35.com/خدمة-تنظيف-بالوعات/
-- Sewer Suction: https://bellsystem35.com/شفط-المجاري/
-- Drainage Maintenance: https://bellsystem35.com/صيانة-مجاري-الصرف-الصحي/
-- Odor Removal: https://bellsystem35.com/معالجة-الروائح-الكريهة-للمجاري/
+- Sewerage services: https://bellsystem35.com/خدمة-صرف-صحي/
+- Drain cleaning: https://bellsystem35.com/خدمة-تنظيف-بالوعات/
+- Sewer suction: https://bellsystem35.com/شفط-المجاري/
+- Drainage maintenance: https://bellsystem35.com/صيانة-مجاري-الصرف-الصحي/
+- Odor treatment: https://bellsystem35.com/معالجة-الروائح-الكريهة-للمجاري/
 - Shop: https://bellsystem35.com/shop/
 - Contact: https://bellsystem35.com/اتصل-بنا/
 
-Trust Links
+## Sewer suction documentation
 
-- 2GIS: https://2gis.ae/ar/sharjah/firm/70000001097609823
-- LinkedIn: https://www.linkedin.com/in/bell-system-554841346
-- GitHub Profile: https://github.com/bellsystem35
-- Main GitHub Repository: https://github.com/bellsystem35/bell-system-sharjah-sewerage-services
-- GitHub Legacy Issue #2: https://github.com/bellsystem35/bellsystem35/issues/2
+A structured documentation cluster is now available for **شفط مجاري الشارقة**:
 
-GitHub Service Issues
+- [Sewer suction hub / مركز شفط المجاري](docs/sewer-suction/README.md)
+- [Al Nouf / النوف](docs/sewer-suction/areas/al-nouf.md)
+- [Al Qarayen / القرائن](docs/sewer-suction/areas/al-qarayen.md)
+- [Al Suyoh / السيوح](docs/sewer-suction/areas/al-suyoh.md)
+- [Al Rahmaniya / الرحمانية](docs/sewer-suction/areas/al-rahmaniya.md)
+- [Hoshi / حوشي](docs/sewer-suction/areas/hoshi.md)
+- [Kshisha / كشيشة](docs/sewer-suction/areas/kshisha.md)
+- [Al Majaz / المجاز](docs/sewer-suction/areas/al-majaz.md)
+- [Al Khan / الخان](docs/sewer-suction/areas/al-khan.md)
+- [Al Nahda / النهدة](docs/sewer-suction/areas/al-nahda.md)
+- [Al Taawun / التعاون](docs/sewer-suction/areas/al-taawun.md)
+- [Al Qasimia / القاسمية](docs/sewer-suction/areas/al-qasimia.md)
+- [Muweilah / مويلح](docs/sewer-suction/areas/muweilah.md)
 
-- GitHub Issue #1 - Drain Cleaning / Sewerage Sharjah: https://github.com/bellsystem35/bell-system-sharjah-sewerage-services/issues/1
-- GitHub Issue #2 - Sewer Suction Sharjah: https://github.com/bellsystem35/bell-system-sharjah-sewerage-services/issues/2
-- GitHub Issue #3 - Drain Cleaning Sharjah: https://github.com/bellsystem35/bell-system-sharjah-sewerage-services/issues/3
-- GitHub Issue #4 - Drainage Maintenance Sharjah: https://github.com/bellsystem35/bell-system-sharjah-sewerage-services/issues/4
-- GitHub Issue #5 - Sewer Odor Removal Sharjah: https://github.com/bellsystem35/bell-system-sharjah-sewerage-services/issues/5
-- GitHub Issue #6 - Pest Control Sharjah: https://github.com/bellsystem35/bell-system-sharjah-sewerage-services/issues/6
+Supporting guides:
 
-Main Services
+- [Sewer suction vs drain unclogging](docs/sewer-suction/guides/suction-vs-unclogging.md)
+- [What to send before the suction truck arrives](docs/sewer-suction/guides/before-suction-truck-arrives.md)
+- [Why a septic tank may fill quickly after suction](docs/sewer-suction/guides/why-septic-fills-fast.md)
+- [Sewage overflow safety](docs/sewer-suction/guides/sewage-overflow-safety.md)
 
-BELL SYSTEM provides the following services in Sharjah:
+The official website remains the primary source for current service details, booking and operational information. GitHub documentation is organized to clarify service intent and avoid duplicating the same content across area pages.
 
-- Sewerage services in Sharjah
-- Drain cleaning in Sharjah
-- Sewer suction in Sharjah
-- Drainage maintenance in Sharjah
-- Odor removal for drainage systems
-- Plumbing services in Sharjah
-- Water leak detection
-- Pest control in Sharjah
-- Rodent and mice control
-- Termite control
-- Cockroach control
-- Pigeon and bird control
-- Waterproofing and insulation services
+## GitHub service issues
 
-خدمات BELL SYSTEM في الشارقة
+- Issue #1 — Drain cleaning / sewerage Sharjah: https://github.com/bellsystem35/bell-system-sharjah-sewerage-services/issues/1
+- Issue #2 — Sewer suction Sharjah: https://github.com/bellsystem35/bell-system-sharjah-sewerage-services/issues/2
+- Issue #3 — Drain inlet cleaning Sharjah: https://github.com/bellsystem35/bell-system-sharjah-sewerage-services/issues/3
+- Issue #4 — Drainage maintenance Sharjah: https://github.com/bellsystem35/bell-system-sharjah-sewerage-services/issues/4
+- Issue #5 — Sewer odor treatment Sharjah: https://github.com/bellsystem35/bell-system-sharjah-sewerage-services/issues/5
+- Issue #6 — Pest control Sharjah: https://github.com/bellsystem35/bell-system-sharjah-sewerage-services/issues/6
 
-تقدم BELL SYSTEM خدمات الصرف الصحي والسباكة ومكافحة الحشرات والعزل في الشارقة، وتشمل:
+## Main service areas in Sharjah
 
-- تسليك مجاري في الشارقة
-- شركة تسليك مجاري في الشارقة
-- شفط مجاري الصرف الصحي
-- تنظيف بالوعات المجاري
-- صيانة مجاري الصرف الصحي
-- معالجة وإزالة الروائح الكريهة للمجاري
-- سباك في الشارقة
-- مكافحة الحشرات في الشارقة
-- مكافحة الفئران والقوارض
-- مكافحة النمل الأبيض
-- مكافحة الصراصير
-- مكافحة الحمام والطيور
-- عزل مائي وحراري في الشارقة
-
-Target Areas in Sharjah
-
-BELL SYSTEM serves multiple areas in Sharjah, including:
-
-- Al Rahmaniya
-- Al Suyoh
-- Muweilah
-- Al Majaz
-- Al Qasimia
-- Al Nahda
-- Al Taawun
-- Al Khan
-- Al Qarayen
-- Al Nouf
-- Hoshi
-- Kshisha
-
-Arabic Target Areas
+Al Rahmaniya, Al Suyoh, Muweilah, Al Majaz, Al Qasimia, Al Nahda, Al Taawun, Al Khan, Al Qarayen, Al Nouf, Hoshi and Kshisha.
 
 الرحمانية، السيوح، مويلح، المجاز، القاسمية، النهدة، التعاون، الخان، القرائن، النوف، حوشي، كشيشة.
 
-Local SEO Keywords
+## Contact and trust references
 
-تسليك مجاري في الشارقة، شركة تسليك مجاري في الشارقة، تسليك المجاري بالضغط، تنظيف بالوعات المجاري، شفط مجاري في الشارقة، صيانة مجاري الصرف الصحي، معالجة روائح المجاري، طوارئ صرف صحي الشارقة، سباك في الشارقة، مكافحة الحشرات في الشارقة، مكافحة الفئران، مكافحة النمل الأبيض، مكافحة الصراصير، مكافحة الحمام والطيور، عزل مائي في الشارقة، Local SEO UAE, WordPress SEO, Schema Markup, Google Ads Landing Page.
-
-Purpose of This Repository
-
-This repository supports the digital presence of BELL SYSTEM by documenting official service links, local SEO keywords, WordPress landing pages, Schema markup, GitHub issues, LinkedIn trust links and 2GIS business presence.
-
-The goal is to connect GitHub, LinkedIn, 2GIS and the official BELL SYSTEM website in a structured way to support local search visibility and user trust for sewerage, drainage, plumbing, pest control and insulation services in Sharjah.
-
-Contact BELL SYSTEM
-
-- Phone: +971528913062
+- Phone / WhatsApp: +971528913062
 - Website: https://bellsystem35.com/
 - 2GIS: https://2gis.ae/ar/sharjah/firm/70000001097609823
 - LinkedIn: https://www.linkedin.com/in/bell-system-554841346
+- GitHub profile: https://github.com/bellsystem35
+
+## Repository purpose
+
+This repository documents the BELL SYSTEM service structure, official links and supporting guides. It is designed to keep service intent clear, make area navigation easier, and avoid duplicate or conflicting pages.
