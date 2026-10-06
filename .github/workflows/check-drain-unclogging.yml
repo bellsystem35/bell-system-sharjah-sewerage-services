@@ -1,0 +1,33 @@
+name: Validate Drain Unclogging Documentation
+
+on:
+  push:
+    paths:
+      - "README.md"
+      - "docs/drain-unclogging/**"
+      - "scripts/check_drain_unclogging.py"
+      - ".github/workflows/check-drain-unclogging.yml"
+  pull_request:
+    paths:
+      - "README.md"
+      - "docs/drain-unclogging/**"
+      - "scripts/check_drain_unclogging.py"
+      - ".github/workflows/check-drain-unclogging.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  content-audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Configure Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Check drain-unclogging documentation
+        run: python scripts/check_drain_unclogging.py
