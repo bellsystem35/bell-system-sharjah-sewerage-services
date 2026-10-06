@@ -13,7 +13,7 @@
 | استمرار الرائحة بعد الشفط | [معدات الرحمانية](https://bellsystem35.com/wp-content/uploads/2026/08/vacuum-tanker-equipment-al-rahmaniya.webp) | فني يفحص تجهيزات تنكر شفط في الرحمانية |
 | سجلات الشفط للبنايات | [مبنى القاسمية](https://bellsystem35.com/wp-content/uploads/2026/08/building-sewer-service-al-qasimia.webp) | فنيون ينظمون الخرطوم قرب موقف بناية في القاسمية |
 
-## صور المناطق والمركز
+## صور المناطق والمركز — 12 منطقة موثقة
 
 | الاستخدام | الصورة |
 |---|---|
@@ -24,6 +24,14 @@
 | حوشي | [شفط بيارات فلل حوشي](https://bellsystem35.com/wp-content/uploads/2026/08/villa-drainage-service-hoshi.webp) |
 | القاسمية | [تنكر شفط مجاري القاسمية](https://bellsystem35.com/wp-content/uploads/2026/08/sewer-suction-al-qasimia-sharjah-hero.webp) |
 | مويلح | [وايت شفط مجاري مويلح](https://bellsystem35.com/wp-content/uploads/2026/08/sewer-suction-muwaileh-sharjah-hero.webp) |
+
+| النوف | [شفط بيارة في فيلا بالنوف](https://bellsystem35.com/wp-content/uploads/2026/09/bell-system-al-nouf-villa-septic-pumping-premium.webp) |
+| القرائن | [شفط بيارات فلل القرائن](https://bellsystem35.com/wp-content/uploads/2026/09/bell-system-al-qarain-villa-septic-pumping-premium.webp) |
+| كشيشة | [وايت شفط بيارات كشيشة](https://bellsystem35.com/wp-content/uploads/2026/09/bell-system-kshisha-sewage-pumping-hero-premium-1.webp) |
+| المجاز | [غرفة تجميع في مبنى بالمجاز](https://bellsystem35.com/wp-content/uploads/2026/09/bell-system-al-majaz-collection-chamber-pumping.webp) |
+| الخان | [غرفة تجميع في الخان](https://bellsystem35.com/wp-content/uploads/2026/09/bell-system-al-khan-building-collection-chamber-premium.webp) |
+| النهدة | [غرفة تجميع مبنى بالنهدة](https://bellsystem35.com/wp-content/uploads/2026/09/bell-system-al-nahda-basement-collection-chamber-premium.webp) |
+| التعاون | [غرفة تجميع بناية بالتعاون](https://bellsystem35.com/wp-content/uploads/2026/09/bell-system-al-taawun-building-collection-chamber-premium.webp) |
 
 ## قواعد الاستخدام
 
