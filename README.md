@@ -13,6 +13,22 @@ BELL SYSTEM provides sewerage, drainage, plumbing, pest-control and insulation s
 - Shop: https://bellsystem35.com/shop/
 - Contact: https://bellsystem35.com/اتصل-بنا/
 
+
+## Drain unclogging documentation
+
+A dedicated documentation cluster is available for **تسليك مجاري الشارقة** and is kept separate from the sewer-suction cluster:
+
+- [Drain unclogging hub / مركز تسليك المجاري](docs/drain-unclogging/README.md)
+- [SEO intent map / خريطة نية البحث](docs/drain-unclogging/SEO-INTENT-MAP.md)
+- [WordPress crosswalk / خريطة صفحات WordPress](docs/drain-unclogging/SEO-WORDPRESS-CROSSWALK.md)
+- [WordPress quality audit / تدقيق الجودة](docs/drain-unclogging/WORDPRESS-QUALITY-AUDIT-2026-10-06.md)
+- [79-article intent audit / تدقيق المقالات](docs/drain-unclogging/ARTICLE-INTENT-AUDIT-2026-10-06.md)
+- [Automated documentation checker](scripts/check_drain_unclogging.py)
+
+Official commercial target: https://bellsystem35.com/تسليك-مجاري-في-الشارقة-فتح-الانسدادات/
+
+The drain-unclogging documentation separates general line unclogging, hydro-jetting, drain-inlet cleaning, drain-inlet unclogging and sewer suction so supporting content does not become a competing commercial landing page.
+
 ## Sewer suction documentation
 
 A structured documentation cluster is now available for **شفط مجاري الشارقة**:
