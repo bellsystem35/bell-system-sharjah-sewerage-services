@@ -64,6 +64,7 @@
 ## WordPress primary pages and competing-intent watch
 
 - [Detailed WordPress–GitHub crosswalk](SEO-WORDPRESS-CROSSWALK.md) lists the published original URLs for all 12 areas.
+- [Content-quality audit of WordPress pages](WORDPRESS-QUALITY-AUDIT-2026-10-06.md) records page-specific enhancement priorities and audit limits.
 - [Main sewer-suction service](https://bellsystem35.com/شفط-المجاري/) serves the general booking intent.
 - [Suction truck / وايت صرف صحي](https://bellsystem35.com/وايت-صرف-صحي-في-الشارقة-وايت-شفط-مجاري/) focuses on vehicle selection and access.
 - [Septic / collection tank guide](https://bellsystem35.com/296-2/) explains tank-level considerations and follow-up.
