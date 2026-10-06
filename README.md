@@ -18,6 +18,9 @@ BELL SYSTEM provides sewerage, drainage, plumbing, pest-control and insulation s
 A structured documentation cluster is now available for **شفط مجاري الشارقة**:
 
 - [Sewer suction hub / مركز شفط المجاري](docs/sewer-suction/README.md)
+- [Six detailed sewer suction articles / مقالات شفط المجاري](docs/sewer-suction/articles/README.md)
+- [Sharjah area index / دليل المناطق](docs/sewer-suction/areas/README.md)
+- [WebP image catalog / فهرس صور WebP](docs/sewer-suction/media/README.md)
 - [Al Nouf / النوف](docs/sewer-suction/areas/al-nouf.md)
 - [Al Qarayen / القرائن](docs/sewer-suction/areas/al-qarayen.md)
 - [Al Suyoh / السيوح](docs/sewer-suction/areas/al-suyoh.md)
