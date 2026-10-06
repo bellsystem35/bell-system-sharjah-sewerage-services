@@ -56,6 +56,8 @@ The official website remains the primary source for current service details, boo
 The official WordPress content is the primary reference for commercial service and local pages. GitHub files are supporting documentation, **not replacement landing pages**.
 
 - [WordPress–GitHub crosswalk: all 12 area pages and core service intents](docs/sewer-suction/SEO-WORDPRESS-CROSSWALK.md)
+- [Audit of existing WordPress suction pages and improvement priorities](docs/sewer-suction/WORDPRESS-QUALITY-AUDIT-2026-10-06.md)
+- [Automated Markdown link and WebP checks](scripts/check_sewer_suction.py)
 - [Expanded sewer suction decision hub](docs/sewer-suction/README.md)
 - [WebP image catalog: all 12 areas + six articles](docs/sewer-suction/media/README.md)
 - [Intent separation and anti-duplication plan](docs/sewer-suction/SEO-INTENT-MAP.md)
