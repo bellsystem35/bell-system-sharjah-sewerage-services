@@ -12,6 +12,10 @@
 | الفحص بعد الشفط | [مراجعة في السيوح](https://bellsystem35.com/wp-content/uploads/2026/08/post-service-check-al-suyoh.webp) | فنيان يفحصان معدات الشفط |
 | استمرار الرائحة بعد الشفط | [معدات الرحمانية](https://bellsystem35.com/wp-content/uploads/2026/08/vacuum-tanker-equipment-al-rahmaniya.webp) | فني يفحص تجهيزات تنكر شفط في الرحمانية |
 | سجلات الشفط للبنايات | [مبنى القاسمية](https://bellsystem35.com/wp-content/uploads/2026/08/building-sewer-service-al-qasimia.webp) | فنيون ينظمون الخرطوم قرب موقف بناية في القاسمية |
+| تكرار شفط البيارة وتسجيل الفواصل | [شفط بيارة في النوف](https://bellsystem35.com/wp-content/uploads/2026/09/bell-system-al-nouf-villa-septic-pumping-premium.webp) | تجهيز نقطة شفط بيارة في فيلا بالنوف الشارقة |
+| الفرق بين سحب المياه وتنظيف الرواسب | [شفط بيارات القرائن](https://bellsystem35.com/wp-content/uploads/2026/09/bell-system-al-qarain-villa-septic-pumping-premium.webp) | تجهيز خرطوم شفط لبيارة في فيلا بالقرائن الشارقة |
+| مشكلة داخل الشقة أم نظام المبنى | [غرفة تجميع التعاون](https://bellsystem35.com/wp-content/uploads/2026/09/bell-system-al-taawun-building-collection-chamber-premium.webp) | غرفة تجميع صرف في بناية بمنطقة التعاون الشارقة |
+| شفط الصرف للمنشآت التجارية | [غرفة تجميع الخان](https://bellsystem35.com/wp-content/uploads/2026/09/bell-system-al-khan-building-collection-chamber-premium.webp) | غرفة تجميع صرف في مبنى بمنطقة الخان الشارقة |
 
 ## صور المناطق والمركز — 12 منطقة موثقة
 
