@@ -60,6 +60,17 @@
 
 صور المقالات مربوطة بمكتبة [WebP](media/README.md) الرسمية. هذه الملفات وثائق تعليمية؛ لا تنسخ المحتوى التجاري للموقع الرسمي.
 
+
+## WordPress primary pages and competing-intent watch
+
+- [Detailed WordPress–GitHub crosswalk](SEO-WORDPRESS-CROSSWALK.md) lists the published original URLs for all 12 areas.
+- [Main sewer-suction service](https://bellsystem35.com/شفط-المجاري/) serves the general booking intent.
+- [Suction truck / وايت صرف صحي](https://bellsystem35.com/وايت-صرف-صحي-في-الشارقة-وايت-شفط-مجاري/) focuses on vehicle selection and access.
+- [Septic / collection tank guide](https://bellsystem35.com/296-2/) explains tank-level considerations and follow-up.
+- [Official area directory](https://bellsystem35.com/دليل-مناطق-شفط-مجاري-في-الشارقة-bell-system/) routes by locality.
+
+Potential overlap must be diagnosed with real Search Console query-and-page data; similar wording alone does not prove cannibalization. No WordPress canonical, slug, H1, noindex or redirect settings were modified as part of these GitHub updates.
+
 ## 5. قواعد منع التعارض
 
 - لا ننشئ صفحة جديدة لمجرد اختلاف كلمة مثل "وايت شفط" و"سيارة شفط" و"شفط بيارات" إذا كانت النية واحدة.
