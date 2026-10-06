@@ -18,7 +18,7 @@ BELL SYSTEM provides sewerage, drainage, plumbing, pest-control and insulation s
 A structured documentation cluster is now available for **شفط مجاري الشارقة**:
 
 - [Sewer suction hub / مركز شفط المجاري](docs/sewer-suction/README.md)
-- [Six detailed sewer suction articles / مقالات شفط المجاري](docs/sewer-suction/articles/README.md)
+- [Ten detailed sewer suction articles / مقالات شفط المجاري](docs/sewer-suction/articles/README.md)
 - [Sharjah area index / دليل المناطق](docs/sewer-suction/areas/README.md)
 - [WebP image catalog / فهرس صور WebP](docs/sewer-suction/media/README.md)
 - [Al Nouf / النوف](docs/sewer-suction/areas/al-nouf.md)
@@ -59,7 +59,7 @@ The official WordPress content is the primary reference for commercial service a
 - [Audit of existing WordPress suction pages and improvement priorities](docs/sewer-suction/WORDPRESS-QUALITY-AUDIT-2026-10-06.md)
 - [Automated Markdown link and WebP checks](scripts/check_sewer_suction.py)
 - [Expanded sewer suction decision hub](docs/sewer-suction/README.md)
-- [WebP image catalog: all 12 areas + six articles](docs/sewer-suction/media/README.md)
+- [WebP image catalog: all 12 areas + ten articles](docs/sewer-suction/media/README.md)
 - [Intent separation and anti-duplication plan](docs/sewer-suction/SEO-INTENT-MAP.md)
 
 The repository documents verified links, practical site-access questions and safety-oriented guidance. Public visibility enables access; it does **not** guarantee indexing or rankings.
